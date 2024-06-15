@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Record 1",
+    "path": "/public/audios/1.mp3",
+    "created_at": "1 minutes ago",
+    "duration": "00:04:46"
+  },
+  {
+    "id": 2,
+    "name": "Record 2",
+    "path":  "/public/audios/2.mp3",
+    "created_at":  "2 minutes ago",
+    "duration": "00:02:13"
+  },
+  {
+    "id": 3,
+    "name": "Record 3",
+    "path":  "/public/audios/3.mp3",
+    "created_at":  "3 minutes ago",
+    "duration": "00:05:15"
+  },
+  {
+    "id": 4,
+    "name": "Record 4",
+    "path":  "/public/audios/4.mp3",
+    "created_at":  "4 minutes ago",
+    "duration": "00:04:17"
+  },
+  {
+    "id": 5,
+    "name": "Record 5",
+    "path":  "/public/audios/5.mp3",
+    "created_at":  "5 minutes ago",
+    "duration": "00:03:20"
+  },
+  {
+    "id": 6,
+    "name": "Record 6",
+    "path":  "/public/audios/6.mp3",
+    "created_at":  "6 minutes ago",
+    "duration": "00:04:46"
+  }
+]
